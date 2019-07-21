@@ -1,0 +1,12 @@
+{
+    "data":[
+        {"brand":"BMW-series-1","year":"2011","color":"red"},
+		{"brand":"BMW-series-2","year":"2012","color":"blue"},
+		{"brand":"BMW-series-3","year":"2013","color":"green"},
+		{"brand":"BMW-series-4","year":"2014","color":"yellow"},
+		{"brand":"BMW-series-5","year":"2015","color":"purple"},
+		{"brand":"BMW-series-6","year":"2016","color":"orange"},
+		{"brand":"BMW-series-7","year":"2017","color":"grey"},
+		{"brand":"BMW-series-8","year":"2018","color":"silver"}
+    ]
+}

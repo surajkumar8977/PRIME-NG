@@ -1,0 +1,17 @@
+{
+    "data":[
+        {"name":"hari","empId":"00567","city":"CHN"},
+         {"name":"Shyam","empId":"00897","city":"HYD"},
+        {"name":"Ganesh","empId":"00256","city":"CHN"},
+		{"name":"Ganpat","empId":"00458","city":"CKP"},
+         {"name":"Raju","empId":"00789","city":"CHN"},
+        {"name":"Jack","empId":"00145","city":"JSR"},
+		{"name":"Shyana","empId":"00987","city":"BNGL"},
+         {"name":"Bobby","empId":"00124","city":"CDNA"},
+        {"name":"Ricky","empId":"00224","city":"HYD"},
+		{"name":"Kush","empId":"00332","city":"CHN"},
+         {"name":"Don","empId":"00152","city":"HYD"},
+        {"name":"Ankit","empId":"00745","city":"BNGL"},
+       {"name":"Ameen","empId":"00658","city":"HAR"}
+    ]
+}
